@@ -177,6 +177,7 @@ footer {
 margin-bottom: 24px;
 display: flex;
 flex-direction: column;
+align-items: center;
   }
 
 .home__description--button{
